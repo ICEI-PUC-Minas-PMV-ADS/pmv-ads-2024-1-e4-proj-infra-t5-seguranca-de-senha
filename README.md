@@ -4,9 +4,9 @@
 O projeto "Sistema Financeiro" tem como objetivo desenvolver uma aplicação abrangente para gestão financeira, proporcionando aos usuários ferramentas eficientes para controle de despesas, planejamento orçamentário e acompanhamento de transações. Com a crescente necessidade de organização financeira e segurança nas transações online, nossa aplicação busca fornecer uma solução completa e intuitiva para atender a essas demandas, promovendo uma gestão financeira mais eficaz e informada.
 
 ## Integrantes
-- Lucas Delmasquio Silva
-- Samuel Ferreira de Oliveira 
-- Frederico Gonçalves da Silva Junior
+- Lucas Delmasquio Silva.
+- Samuel Ferreira de Oliveira. 
+- Frederico Gonçalves da Silva Junior.
 - Nicolas
 
 ## Orientador
